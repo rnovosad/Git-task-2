@@ -1,0 +1,4 @@
+git show-ref
+5890ce6586e9b2102462250876423c05f158f9c3 refs/heads/master
+0914a175cc9ab68c95c1e04af139d372e57fdf56 refs/tags/1.0.0
+72e9ac3b2df93e221f234e432496e1efe475b31c refs/tags/1.0.1
