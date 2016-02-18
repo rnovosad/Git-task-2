@@ -1,4 +1,23 @@
-git show-ref
-5890ce6586e9b2102462250876423c05f158f9c3 refs/heads/master
-0914a175cc9ab68c95c1e04af139d372e57fdf56 refs/tags/1.0.0
-72e9ac3b2df93e221f234e432496e1efe475b31c refs/tags/1.0.1
+commit 13c02b2545eab72220ea6eda8c8104cd2b65205a
+Author: rnovosad <asheveleva@mobileiron.com>
+Date:   Thu Feb 18 12:48:23 2016 +0200
+
+    Fix issues wich was mentioned in comment to task
+
+commit 87260a37ca060eba70c0968cfa829d279159ed6f
+Author: Roman Novosad <rnovosad@Romans-MacBook-Pro.local>
+Date:   Fri Feb 12 16:35:23 2016 +0200
+
+    Made changes in test.txt and log.txt
+
+commit 5890ce6586e9b2102462250876423c05f158f9c3
+Author: Roman Novosad <rnovosad@Romans-MacBook-Pro.local>
+Date:   Fri Feb 12 16:30:23 2016 +0200
+
+    1 new line in test.txt
+
+commit f722057dbdd7b1676835819f251404f4f8ba67d6
+Author: Roman Novosad <rnovosad@Romans-MacBook-Pro.local>
+Date:   Fri Feb 12 16:05:14 2016 +0200
+
+    Added test.txt and log.txt
